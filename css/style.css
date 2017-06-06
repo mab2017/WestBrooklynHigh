@@ -7,8 +7,25 @@ header{
     text-align: center;
     align-content: center;
 }
+#logo{
+    width: 45%;
+}
+#logo img{
+    display: inline-block;
+}
+#logoTextContainer{
+    width: 62%
+}
+#logoText1{
+    border-bottom: 2px solid black;
+    
+}
+#logoText2{
+    
+}
 nav{
     margin: 10px, auto;
+    background: royalblue
 }
 ul{
     list-style-type: none;
