@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    text-align: center;
+    align-content: center;
+}
+nav{
+    margin: 10px, auto;
+}
+ul{
+    list-style-type: none;
+    overflow: hidden;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+li{
+    padding: 10px;
+    display: inline;
+    
+}
+#banner{
+    display: flex;
+    flex-wrap: nowrap;
+    height: 350px;
+    width: 100%;
+    background: grey;
+}
